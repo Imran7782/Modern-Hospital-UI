@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553475177074",
+    "project_id": "firstone-i",
+    "storage_bucket": "firstone-i.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553475177074:android:b681cb789ac0b7ac2620eb",
+        "android_client_info": {
+          "package_name": "com.example.myhospital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTxR6LtipsdldHiKYXI8_7QozeG2xZx64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
