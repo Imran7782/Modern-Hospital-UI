@@ -75,8 +75,8 @@ assets/
 │   ├── circlePink.png    # Another background element
 │   ├── Rectangle 1.png   # Additional image for the UI
 │   └── google.png        # Google login button image
-Screenshots
-Login Screen
+## Showcase
+![Screenshot 2024-11-22 210435](https://github.com/user-attachments/assets/6d2acbbd-8ef6-4628-bd21-e4cc28741f8e)
 
 Future Features
 Google Login: Allow users to log in with their Google account.
